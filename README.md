@@ -1,0 +1,6 @@
+本アセンブリを使用する場合は、buildフォルダをDLしてください。
+※iTextSharpのDLLと同じ階層で動作します
+
+ソースはPDF_PropertyChanger_CUI/PDF_PropertyChanger_CUI.csを参照してください。
+
+詳細については、build内のreadme.txtを参照してください。
